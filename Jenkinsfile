@@ -19,7 +19,7 @@ pipeline {
                 # sudo /PATH/TO/CONDA init
 
                 # Activate the virtual environment
-                source /home/team18/MLIP_Lab6/bin/activate
+                source /home/team18/mlip/bin/activate
                 # Run pytest 
                 pytest
         
